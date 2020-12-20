@@ -3,10 +3,20 @@ import coverImage from "../../assets/cover/cover-image.JPG";
 
 function About() {
     return (
-        <section className="my-5">
-            <h1 id="about">Who am I? Why am I here?</h1>
-            <img src={coverImage} className="my-2" style={{ width: "20%" }} alt="cover" />
-        </section>
+        
+            <div className="container">
+                <div className="row">
+                    <div className="col-sm">
+                        <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" />
+                    </div>
+                    <div className="col-sm">
+                        <h1 id="about">Jesus Manteca</h1>
+                        <h4 className="text-muted">Bilingual Community Manager / Account Strategist</h4>
+                        <h4 className="text-muted">Full Stack Web Developer</h4>
+                        <h4 className="text-muted">Hiker</h4>
+                    </div>
+                </div>
+            </div>
       );
     
 }

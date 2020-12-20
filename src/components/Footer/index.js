@@ -6,13 +6,10 @@ function Footer() {
             <div className="container">
                 <div className="row">
                     <div className="col-sm">
-                    One of three columns
+                        <a target="_blank" rel='noopener noreferrer' href="https://www.github.com/jesusmanteca/">GitHub</a> 
                     </div>
                     <div className="col-sm">
-                    One of three columns
-                    </div>
-                    <div className="col-sm">
-                    One of three columns
+                      <a target="_blank" rel='noopener noreferrer' href="https://www.linkedin.com/in/jesus-manteca">LinkedIn</a>
                     </div>
                 </div>
             </div>
