@@ -1,19 +1,21 @@
 import React from 'react';
-import About from '../About';
 
 function Header(props) {
     return (
-        <section className={"my-5"}>
-            <div className="container">
+        <section className={"my-5 bg-light text-dark"}>
+            <div className="container ">
                 <div className="row">
-                    <div onClick={() => props.setCurrentPage('about')} className="col-sm">
-                    About
+                    <div onClick={() => props.setCurrentPage('about')} className="col-sm hovering">
+                        About
                     </div>
-                    <div onClick={() => props.setCurrentPage('portfolio')} className="col-sm">
-                    Portfolio
+                    <div onClick={() => props.setCurrentPage('portfolio')} className="col-sm hovering">
+                        Portfolio
                     </div>
-                    <div onClick={() => props.setCurrentPage('contact')} className="col-sm">
-                    Contact
+                    <div onClick={() => props.setCurrentPage('contact')} className="col-sm hovering">
+                        Contact
+                    </div>
+                    <div onClick={() => props.setCurrentPage('resume')} className="col-sm hovering">
+                        Resume
                     </div>
                 </div>
             </div>

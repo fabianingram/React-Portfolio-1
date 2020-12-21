@@ -293,3 +293,8 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+.hovering:hover {
+  background-color: var(--secondary);
+  opacity: 0.5;
+  }

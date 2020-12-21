@@ -1,8 +1,8 @@
 import React from 'react';
 
-function Footer() {
+function Footer(props) {
     return (
-        <section className={"my-5"}>
+        <section className={"my-5 bg-secondary"}>
             <div className="container">
                 <div className="row">
                     <div className="col-sm">
@@ -10,6 +10,9 @@ function Footer() {
                     </div>
                     <div className="col-sm">
                       <a target="_blank" rel='noopener noreferrer' href="https://www.linkedin.com/in/jesus-manteca">LinkedIn</a>
+                    </div>
+                    <div className="col-sm">
+                      <a target="_blank" rel='noopener noreferrer' href="https://www.instagram.com/middleclasssocialite/">Instagram</a>
                     </div>
                 </div>
             </div>
