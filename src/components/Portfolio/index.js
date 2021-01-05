@@ -5,6 +5,7 @@ import workDayScheduler from "../../assets/cover/workDayScheduler.jpg";
 import runBuddy from "../../assets/cover/runBuddy.jpg";
 import privateReserve from "../../assets/cover/privateReserve.jpg";
 import photoPort from "../../assets/cover/photoPort.jpg";
+import bookSearch from "../../assets/cover/bookSearchImg.png"
 
 function Porfolio() {
     return (
@@ -14,6 +15,11 @@ function Porfolio() {
                     <div className="col-sm">
                         <a href="https://github.com/TPino92/private-reserve/" target="_blank" rel="noreferrer">
                         <img src={privateReserve} className="my-2" style={{ width: "100%" }} alt="Run Buddy" />
+                        </a>
+                    </div>
+                    <div className="col-sm">
+                        <a href="https://github.com/jesusmanteca/Book-Search-Engine" target="_blank" rel="noreferrer">
+                        <img src={bookSearch} className="my-2" style={{ width: "100%" }} alt="Run Buddy" />
                         </a>
                     </div>
                     <div className="col-sm">
