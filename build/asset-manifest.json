@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.4e47625b.chunk.css",
-    "main.js": "/React-Portfolio/static/js/main.9530c3ae.chunk.js",
-    "main.js.map": "/React-Portfolio/static/js/main.9530c3ae.chunk.js.map",
+    "main.js": "/React-Portfolio/static/js/main.86c4c394.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.86c4c394.chunk.js.map",
     "runtime-main.js": "/React-Portfolio/static/js/runtime-main.e0f6cb3a.js",
     "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.e0f6cb3a.js.map",
     "static/js/2.f4218ab9.chunk.js": "/React-Portfolio/static/js/2.f4218ab9.chunk.js",
@@ -13,11 +13,12 @@
     "static/css/main.4e47625b.chunk.css.map": "/React-Portfolio/static/css/main.4e47625b.chunk.css.map",
     "static/js/2.f4218ab9.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.f4218ab9.chunk.js.LICENSE.txt",
     "static/media/Jesus_Manteca.e24977d4.jpg": "/React-Portfolio/static/media/Jesus_Manteca.e24977d4.jpg",
+    "static/media/bookSearchImg.d59ee9cd.png": "/React-Portfolio/static/media/bookSearchImg.d59ee9cd.png",
     "static/media/budget.9aba63a4.jpg": "/React-Portfolio/static/media/budget.9aba63a4.jpg",
     "static/media/cover-image.0c72b7b7.JPG": "/React-Portfolio/static/media/cover-image.0c72b7b7.JPG",
     "static/media/newsOnTheBalance.92c949fc.jpg": "/React-Portfolio/static/media/newsOnTheBalance.92c949fc.jpg",
     "static/media/photoPort.88d13236.jpg": "/React-Portfolio/static/media/photoPort.88d13236.jpg",
-    "static/media/privateReserve.2db8c59d.jpg": "/React-Portfolio/static/media/privateReserve.2db8c59d.jpg",
+    "static/media/privateReserve.8ccdbc23.jpg": "/React-Portfolio/static/media/privateReserve.8ccdbc23.jpg",
     "static/media/runBuddy.b4ecee0d.jpg": "/React-Portfolio/static/media/runBuddy.b4ecee0d.jpg",
     "static/media/workDayScheduler.787e37f4.jpg": "/React-Portfolio/static/media/workDayScheduler.787e37f4.jpg"
   },
@@ -25,6 +26,6 @@
     "static/js/runtime-main.e0f6cb3a.js",
     "static/js/2.f4218ab9.chunk.js",
     "static/css/main.4e47625b.chunk.css",
-    "static/js/main.9530c3ae.chunk.js"
+    "static/js/main.86c4c394.chunk.js"
   ]
 }
